@@ -16,6 +16,8 @@ The winner is the first player to land exactly on the target tile.
 ## How to use
 1.Just download files and run projekt.py
 Example:
+
+
 <img width="571" height="601" alt="image" src="https://github.com/user-attachments/assets/e788f463-5e6d-4aff-895e-d63f09e8b863" />
 
 .
