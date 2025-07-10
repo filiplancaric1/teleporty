@@ -20,9 +20,9 @@ Example:
 
 <img width="571" height="601" alt="image" src="https://github.com/user-attachments/assets/e788f463-5e6d-4aff-895e-d63f09e8b863" />
 
-.
-.
-.
+
+
+
 <img width="687" height="609" alt="image" src="https://github.com/user-attachments/assets/7bc55972-3c2f-4ec4-b9a4-9cefa6d849ba" />
 
 
