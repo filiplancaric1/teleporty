@@ -1,15 +1,25 @@
-# teleporty
+# teleports
 
-Simulácia stolovej hry Teleporty pre 2 hráčov v jazyku Python. Projekt vznikol ako zadanie na predmet PROG1.
+A simulation of the board game Teleports for 2 players, written in Python. The project was created as an assignment for the course PROG1.
 
-## Popis hry
+## Game description
 
-Hra sa hrá na hracej ploche veľkosti `n x n` (kde `5 <= n <= 10`). Každý hráč má jednu figúrku, ktorú sa snaží dostať z počiatočného políčka `+` na cieľové políčko `*`. Pohyb sa riadi hodením 6-strannej kocky.
+The game is played on a board of size n x n (where 5 <= n <= 10). Each player has one piece, which they try to move from the starting tile + to the target tile *. Movement is determined by rolling a 6-sided die.
 
-Na hracej ploche sú náhodne rozmiestnené teleporty:
-- Veľké písmená (A, B, …) označujú pozitívne teleporty (posun vpred),
-- Malé písmená (a, b, …) označujú negatívne teleporty (posun späť).
+There are randomly placed teleporters on the board:
+    Uppercase letters (A, B, …) represent positive teleporters (move forward),
+    Lowercase letters (a, b, …) represent negative teleporters (move backward).
+    Pieces move in a snake-like pattern – in odd-numbered rows from left to right, in even-numbered rows from right to left.
 
-Figúrky sa pohybujú hadovitým spôsobom – v nepárnych riadkoch zľava doprava, v párnych sprava doľava.
+The winner is the first player to land exactly on the target tile.
 
-Vyhráva hráč, ktorý ako prvý dorazí presne na cieľové políčko.
+## How to use
+1.Just download files and run projekt.py
+Example:
+![alt text](image.png)
+.
+.
+.
+
+![alt text](image-1.png)
+

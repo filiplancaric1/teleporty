@@ -259,9 +259,9 @@ def hra(n, zoznam_vsetkych_bodov, pocet_hracov):
     print('Hrac c. 1 VYHRAL!')
 
 hra(n, zoznam_vsetkych_bodov, k)
+input("Stlač niečo pre exit")
+        
 
-        
-        
         
 
     
